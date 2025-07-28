@@ -4,6 +4,8 @@ CReSt: A Comprehensive Benchmark for Retrieval-Augmented Generation with Complex
 ## ⚡️ Introduction
 CReSt is a benchmark consisting of 2,245 human-annotated examples in English and Korean, designed to capture complex, multi-step RAG scenarios.
 
+You can explore the dataset on Hugging Face at: [https://huggingface.co/datasets/upstage/CReSt](https://huggingface.co/datasets/upstage/CReSt)
+
 ## 📣 Latest Updates
 
 - [15/05/2025] Release of CReSt code
